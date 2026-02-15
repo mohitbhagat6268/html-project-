@@ -1,0 +1,124 @@
+.body{
+    background-color: #262626;
+    color: #81C4FF;
+    font-family:Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+    color: #0066B1;
+    font-size: 29px;
+}
+h5{
+    text-align: center;
+    color:#81C4FF;
+}
+nav{
+ color: #81C4FF;
+}
+article{
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 18px;
+    padding-bottom: 20px;
+}
+aside{
+   text-align: justify;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 18px;
+    padding-bottom: 20px;
+}
+section{
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 18px;
+    padding-bottom: 20px;
+}
+.main-head{
+    text-align: center;
+}
+.image{
+    text-align: center;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.btn-container{
+    text-align: justify;
+    margin-top: 20px;
+}
+.gallary_image{
+    text-align: justify;
+    margin-left: 100px;
+    margin-right: 20px;
+}
+
+video{
+    border: 2px solid black;
+    height: 180px;
+    width: 320px;
+}
+iframe{
+    border: 2px solid black;
+    height: 180px;
+    width: 320px;
+}
+#button1{
+    cursor:pointer;
+    margin: auto;
+    border-color: gray;
+    border-radius: 5px;
+    text-align: left;
+}
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+    color: #81C4FF;;
+}
+#button2{
+    cursor:pointer;
+    margin: auto;
+    border-color: gray;
+    border-radius: 5px;
+    text-align: left;
+}
+
+.gallery-text{
+    text-align: center;
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+}
+hr{
+    border: 0.5px solid white;
+}
+form{
+    text-align: justify;
+    margin-top: 20px;
+}
+.footer{
+    text-align: center;
+    font-size: 10px;
+    color: rgb(255, 255, 255);
+}
+.newsletter{
+    text-align: left;
+    margin-top: 5px;
+}
+h5{
+    text-align: center;
+    color: white;
+    font-size: 15px;
+}
+.youtube{
+   text-align: center; 
+}
+.whatsapp-video{
+    text-align: center;
+}
+.audio{
+    text-align: center;
+    color: tomato;
+}
